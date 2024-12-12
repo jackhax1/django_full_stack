@@ -1,0 +1,4 @@
+.\certbot\
+.\database\
+.\docker-compose-deploy.yml
+.\docker-compose.yml

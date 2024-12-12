@@ -1,2 +1,11 @@
-# django_full_stack
-Full Stack Application with Django
+# Python Full Stack Application
+
+Stack:
+
+React
+Django
+Postgresql
+Nginx
+Certbot
+
+
