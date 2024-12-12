@@ -1,4 +1,6 @@
-./certbot/
-./database/
-./docker-compose-deploy.yml
-./docker-compose.yml
+certbot/
+database/
+docker-compose-deploy.yml
+docker-compose.yml
+nginx/static/
+local
